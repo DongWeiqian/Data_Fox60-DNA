@@ -1,0 +1,79 @@
+REM  -------------------- Secondary structure summary -------------------  ~~~~
+REM                                                                        ~~~~
+CHN  /public/home/Skleac_wj_14/PDB/FOXA1_HP1a A                            ~~~~
+REM                                                                        ~~~~
+REM                .         .         .         .         .               ~~~~
+SEQ  1    LRRQKRFKCEKQPGAGGGGGSGSGGSGAKGGPESRKDPSGASNPSADSPL   50          ~~~~
+STR                  TTT                                                   ~~~~
+REM                                                                        ~~~~
+REM                .                                                       ~~~~
+SEQ  51   HRGVHGKTGQ                                           60          ~~~~
+STR                                                                        ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+LOC  GammaInv     GLN    12 A      GLY     14 A                            ~~~~
+REM                                                                        ~~~~
+REM  --------------- Detailed secondary structure assignment-------------  ~~~~
+REM                                                                        ~~~~
+REM  |---Residue---|    |--Structure--|   |-Phi-|   |-Psi-|  |-Area-|      ~~~~
+ASG  LEU A    1    1    C          Coil    360.00    173.63     224.1      ~~~~
+ASG  ARG A    2    2    C          Coil    -66.92    100.03     236.3      ~~~~
+ASG  ARG A    3    3    C          Coil    -54.22    133.85     201.3      ~~~~
+ASG  GLN A    4    4    C          Coil    -73.54    -25.83     205.1      ~~~~
+ASG  LYS A    5    5    C          Coil   -114.79    134.94     184.4      ~~~~
+ASG  ARG A    6    6    C          Coil    -79.20    131.41     219.2      ~~~~
+ASG  PHE A    7    7    C          Coil    -67.29    134.50     148.7      ~~~~
+ASG  LYS A    8    8    C          Coil   -139.45    117.74     156.8      ~~~~
+ASG  CYS A    9    9    C          Coil    -70.81    128.49      88.3      ~~~~
+ASG  GLU A   10   10    C          Coil    -71.33     93.33     192.5      ~~~~
+ASG  LYS A   11   11    C          Coil    -64.34     98.40     163.4      ~~~~
+ASG  GLN A   12   12    T          Turn    -47.86    123.05     162.4      ~~~~
+ASG  PRO A   13   13    T          Turn    -77.70     71.43     138.3      ~~~~
+ASG  GLY A   14   14    T          Turn   -147.32    -27.22      67.5      ~~~~
+ASG  ALA A   15   15    C          Coil    -89.30     80.07      76.2      ~~~~
+ASG  GLY A   16   16    C          Coil   -120.27     72.35      81.0      ~~~~
+ASG  GLY A   17   17    C          Coil    176.37    138.49      74.1      ~~~~
+ASG  GLY A   18   18    C          Coil     75.67    123.43      78.3      ~~~~
+ASG  GLY A   19   19    C          Coil     81.51     93.89      83.4      ~~~~
+ASG  GLY A   20   20    C          Coil     93.89    136.35      72.5      ~~~~
+ASG  SER A   21   21    C          Coil     87.07    124.53     133.7      ~~~~
+ASG  GLY A   22   22    C          Coil    102.16    117.70      68.3      ~~~~
+ASG  SER A   23   23    C          Coil     80.87    118.57     131.8      ~~~~
+ASG  GLY A   24   24    C          Coil     82.62    147.59      81.7      ~~~~
+ASG  GLY A   25   25    C          Coil    150.75    137.86      68.5      ~~~~
+ASG  SER A   26   26    C          Coil     66.25    153.19     135.0      ~~~~
+ASG  GLY A   27   27    C          Coil    137.68     84.33      80.1      ~~~~
+ASG  ALA A   28   28    C          Coil   -134.01    114.85     104.9      ~~~~
+ASG  LYS A   29   29    C          Coil   -104.48    130.28     220.5      ~~~~
+ASG  GLY A   30   30    C          Coil   -164.38    125.24      77.4      ~~~~
+ASG  GLY A   31   31    C          Coil    -86.32    157.05      79.2      ~~~~
+ASG  PRO A   32   32    C          Coil   -121.08    104.08     120.4      ~~~~
+ASG  GLU A   33   33    C          Coil   -155.24    148.56     183.5      ~~~~
+ASG  SER A   34   34    C          Coil     84.40    117.75      84.4      ~~~~
+ASG  ARG A   35   35    C          Coil     75.93    142.26     229.1      ~~~~
+ASG  LYS A   36   36    C          Coil   -166.15    162.69     172.8      ~~~~
+ASG  ASP A   37   37    C          Coil   -162.24    165.48     118.9      ~~~~
+ASG  PRO A   38   38    C          Coil   -122.64    126.64     124.2      ~~~~
+ASG  SER A   39   39    C          Coil   -161.16    141.78     124.0      ~~~~
+ASG  GLY A   40   40    C          Coil     79.17    142.27      80.2      ~~~~
+ASG  ALA A   41   41    C          Coil   -161.04    164.42      90.4      ~~~~
+ASG  SER A   42   42    C          Coil     23.13    143.17      97.2      ~~~~
+ASG  ASN A   43   43    C          Coil   -165.65    175.51     158.2      ~~~~
+ASG  PRO A   44   44    C          Coil   -114.62    178.56     106.3      ~~~~
+ASG  SER A   45   45    C          Coil     81.77    111.77     118.9      ~~~~
+ASG  ALA A   46   46    C          Coil    179.25    121.66      99.1      ~~~~
+ASG  ASP A   47   47    C          Coil     81.47    108.52     151.0      ~~~~
+ASG  SER A   48   48    C          Coil    168.31    122.00     118.1      ~~~~
+ASG  PRO A   49   49    C          Coil   -126.17    169.85     106.9      ~~~~
+ASG  LEU A   50   50    C          Coil     76.31     98.87     157.8      ~~~~
+ASG  HIS A   51   51    C          Coil   -179.65    170.06     157.9      ~~~~
+ASG  ARG A   52   52    C          Coil    177.38    132.12     208.6      ~~~~
+ASG  GLY A   53   53    C          Coil     93.14    134.61      63.9      ~~~~
+ASG  VAL A   54   54    C          Coil    102.04    128.05     118.8      ~~~~
+ASG  HIS A   55   55    C          Coil     69.27    149.66     188.2      ~~~~
+ASG  GLY A   56   56    C          Coil    161.68    167.40      64.8      ~~~~
+ASG  LYS A   57   57    C          Coil     69.11    170.52     206.2      ~~~~
+ASG  THR A   58   58    C          Coil    178.02    133.88     143.4      ~~~~
+ASG  GLY A   59   59    C          Coil    141.48    157.12      70.3      ~~~~
+ASG  GLN A   60   60    C          Coil    177.81    360.00     251.4      ~~~~

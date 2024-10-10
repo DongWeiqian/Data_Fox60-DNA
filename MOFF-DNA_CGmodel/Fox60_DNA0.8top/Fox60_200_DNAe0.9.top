@@ -1,0 +1,8 @@
+#include "prot_dna.itp"
+#include "Fox60_200.itp"
+#include "Lambda_DNAe0.9.itp"
+
+[ molecules ]
+; name            #molec
+Fox60_200	200
+Lambda_DNAe0.9	1

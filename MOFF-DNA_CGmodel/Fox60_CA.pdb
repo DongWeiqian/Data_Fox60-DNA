@@ -1,0 +1,70 @@
+HEADER    
+TITLE     MDANALYSIS FRAME 0: Created by PDBWriter
+CRYST1    1.000    1.000    1.000  90.00  90.00  90.00 P 1           1
+REMARK     285 UNITARY VALUES FOR THE UNIT CELL AUTOMATICALLY SET
+REMARK     285 BY MDANALYSIS PDBWRITER BECAUSE UNIT CELL INFORMATION
+REMARK     285 WAS MISSING.
+REMARK     285 PROTEIN DATA BANK CONVENTIONS REQUIRE THAT
+REMARK     285 CRYST1 RECORD IS INCLUDED, BUT THE VALUES ON
+REMARK     285 THIS RECORD ARE MEANINGLESS.
+ATOM      1  CA  LEU A   1     -19.014   5.372   0.049  1.00 56.77      A    C
+ATOM      2  CA  ARG A   2     -19.681   2.553  -2.508  1.00 54.18      A    C
+ATOM      3  CA  ARG A   3     -20.145   4.214  -5.964  1.00 62.24      A    C
+ATOM      4  CA  GLN A   4     -22.978   2.557  -7.971  1.00 56.68      A    C
+ATOM      5  CA  LYS A   5     -21.055   3.066 -11.310  1.00 62.39      A    C
+ATOM      6  CA  ARG A   6     -17.471   1.826 -12.044  1.00 63.34      A    C
+ATOM      7  CA  PHE A   7     -14.866   4.289 -13.383  1.00 63.19      A    C
+ATOM      8  CA  LYS A   8     -13.550   2.917 -16.697  1.00 63.20      A    C
+ATOM      9  CA  CYS A   9     -10.795   4.468 -18.800  1.00 61.23      A    C
+ATOM     10  CA  GLU A  10     -11.900   4.277 -22.451  1.00 61.08      A    C
+ATOM     11  CA  LYS A  11      -8.938   2.319 -23.855  1.00 53.85      A    C
+ATOM     12  CA  GLN A  12      -9.016   3.783 -27.384  1.00 47.56      A    C
+ATOM     13  CA  PRO A  13      -9.128   0.725 -29.767  1.00 44.72      A    C
+ATOM     14  CA  GLY A  14      -5.844   1.476 -31.635  1.00 44.50      A    C
+ATOM     15  CA  ALA A  15      -2.921   0.567 -29.274  1.00 48.73      A    C
+ATOM     16  CA  GLY A  16      -2.535  -3.199 -29.951  1.00 38.20      A    C
+ATOM     17  CA  GLY A  17       1.261  -3.787 -30.238  1.00 37.61      A    C
+ATOM     18  CA  GLY A  18       4.562  -3.831 -28.228  1.00 37.28      A    C
+ATOM     19  CA  GLY A  19       5.940  -5.570 -26.056  1.00 36.88      A    C
+ATOM     20  CA  GLY A  20       9.701  -4.692 -25.757  1.00 40.22      A    C
+ATOM     21  CA  SER A  21      12.323  -2.994 -24.623  1.00 41.22      A    C
+ATOM     22  CA  GLY A  22      15.121  -0.799 -26.135  1.00 41.06      A    C
+ATOM     23  CA  SER A  23      16.953   1.878 -25.404  1.00 44.12      A    C
+ATOM     24  CA  GLY A  24      18.754   4.400 -27.690  1.00 37.04      A    C
+ATOM     25  CA  GLY A  25      19.304   7.125 -28.962  1.00 40.38      A    C
+ATOM     26  CA  SER A  26      20.161  10.206 -31.148  1.00 44.14      A    C
+ATOM     27  CA  GLY A  27      19.709  12.970 -32.414  1.00 38.30      A    C
+ATOM     28  CA  ALA A  28      18.767  15.283 -35.336  1.00 45.58      A    C
+ATOM     29  CA  LYS A  29      19.552  18.977 -35.934  1.00 45.62      A    C
+ATOM     30  CA  GLY A  30      18.536  20.205 -39.426  1.00 41.36      A    C
+ATOM     31  CA  GLY A  31      17.130  23.681 -40.268  1.00 39.16      A    C
+ATOM     32  CA  PRO A  32      14.133  24.467 -42.602  1.00 48.06      A    C
+ATOM     33  CA  GLU A  33      14.106  27.335 -45.165  1.00 44.64      A    C
+ATOM     34  CA  SER A  34      13.425  28.727 -48.637  1.00 47.21      A    C
+ATOM     35  CA  ARG A  35      11.815  28.532 -52.084  1.00 48.46      A    C
+ATOM     36  CA  LYS A  36       9.484  28.001 -54.363  1.00 49.55      A    C
+ATOM     37  CA  ASP A  37       6.612  28.313 -56.301  1.00 46.78      A    C
+ATOM     38  CA  PRO A  38       2.720  28.441 -56.685  1.00 50.18      A    C
+ATOM     39  CA  SER A  39       0.677  28.654 -59.976  1.00 49.27      A    C
+ATOM     40  CA  GLY A  40      -2.478  27.218 -61.697  1.00 44.12      A    C
+ATOM     41  CA  ALA A  41      -5.565  26.707 -61.946  1.00 46.79      A    C
+ATOM     42  CA  SER A  42      -9.432  26.805 -62.308  1.00 48.19      A    C
+ATOM     43  CA  ASN A  43     -12.546  26.409 -61.524  1.00 50.76      A    C
+ATOM     44  CA  PRO A  44     -15.869  26.300 -59.432  1.00 52.42      A    C
+ATOM     45  CA  SER A  45     -19.653  25.817 -58.899  1.00 41.67      A    C
+ATOM     46  CA  ALA A  46     -22.836  23.717 -58.810  1.00 47.43      A    C
+ATOM     47  CA  ASP A  47     -25.440  23.734 -56.582  1.00 45.39      A    C
+ATOM     48  CA  SER A  48     -28.757  21.752 -56.066  1.00 51.30      A    C
+ATOM     49  CA  PRO A  49     -31.208  20.862 -53.203  1.00 43.51      A    C
+ATOM     50  CA  LEU A  50     -34.902  19.641 -52.753  1.00 46.02      A    C
+ATOM     51  CA  HIS A  51     -37.329  16.936 -53.937  1.00 45.24      A    C
+ATOM     52  CA  ARG A  52     -39.745  14.740 -52.968  1.00 42.70      A    C
+ATOM     53  CA  GLY A  53     -42.373  11.973 -52.478  1.00 39.95      A    C
+ATOM     54  CA  VAL A  54     -44.272   9.132 -51.661  1.00 45.29      A    C
+ATOM     55  CA  HIS A  55     -45.765   5.574 -52.264  1.00 44.44      A    C
+ATOM     56  CA  GLY A  56     -46.068   2.460 -52.008  1.00 41.67      A    C
+ATOM     57  CA  LYS A  57     -47.435  -1.224 -52.059  1.00 43.94      A    C
+ATOM     58  CA  THR A  58     -47.452  -4.576 -51.441  1.00 38.95      A    C
+ATOM     59  CA  GLY A  59     -47.140  -8.444 -51.656  1.00 43.67      A    C
+ATOM     60  CA  GLN A  60     -47.224 -11.651 -50.847  1.00 43.08      A    C
+END
