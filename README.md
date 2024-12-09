@@ -15,6 +15,6 @@ By Weiqian Dong
    -- File sdna_xyz.dat is used for generating the coordinate of a single $DNA_{490}$ by PLUMED 2.8.
    -- File runanaly1.sh is used for coverting the MD trajectory files (.xtc files) to readable matrix files and preparing the input files for computing data analysis.
    -- File compute1.sh is sh command used for computing data analysis.
-
+4. In final_structure folder, we shown the final configurations of our molecular dynamics simulation trajectories.
 ------------------------
 Email dwqian@ciac.ac.com with any questions
